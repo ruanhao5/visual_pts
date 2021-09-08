@@ -1,3 +1,9 @@
+# New
+
+:fire: The author of repository had received my pull request. （2021.09.07）
+
+:clap: So recommend to visit https://github.com/gaojunbin/visual_pts. 
+
 # Visualize Point Clouds (with bbox) by Plotly
 
 ## Install
